@@ -2,18 +2,18 @@ import java.util.Scanner;
 
 public class Exercicio01 {
     public static void main(String[] args) {
-/*      1. Cadastro de Usuário (Variáveis, Tipagem de Dados, Scanner)
-        Crie um programa que solicite ao usuário seu nome, idade e altura. Em seguida, exiba os valores informados.
+/*  1. Cadastro de Usuário (Variáveis, Tipagem de Dados, Scanner)
+    Crie um programa que solicite ao usuário seu nome, idade e altura. Em seguida, exiba os valores informados.
 
-        Exemplo de Entrada:
-        Nome: João
-        Idade: 25
-        Altura: 1.75
+    Exemplo de Entrada:
+    Nome: João
+    Idade: 25
+    Altura: 1.75
 
-        Saída Esperada:
-        Nome: João
-        Idade: 25 anos
-        Altura: 1.75m
+    Saída Esperada:
+    Nome: João
+    Idade: 25 anos
+    Altura: 1.75m
  */
 
         Scanner scanner = new Scanner(System.in);
